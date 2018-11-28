@@ -1,6 +1,7 @@
 body {
 text-align: center;
 background-color: rgba(7, 61, 126, 0.305);
+color: rgba(7, 61, 126, 0.805)
 }
 #tribute-info {
     display: flex;
@@ -9,6 +10,7 @@ background-color: rgba(7, 61, 126, 0.305);
 }
 #img-div {
     margin: 2rem;
+    padding: 2rem;
     background-color: aliceblue;
     border-radius: 6rem;
 }
@@ -20,9 +22,18 @@ background-color: rgba(7, 61, 126, 0.305);
     height: auto;
     margin: auto
 }
+#img-caption {
+    margin: 1rem;
+}
 h1 {
     color: rgba(7, 61, 126)
 }
+h4 {
+    font-size: 1rem;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: rgba(7, 61, 126, 0.805)
+}
 ul {
  text-align:left;
+ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
