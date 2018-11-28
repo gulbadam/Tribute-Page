@@ -26,6 +26,7 @@ color: rgba(7, 61, 126, 0.805)
     margin: 1rem;
 }
 h1 {
+    font-size: 3rem;
     color: rgba(7, 61, 126)
 }
 h4 {
@@ -38,5 +39,23 @@ ul {
  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 blockquote {
+    font-size: 1.5rem;
     font-style: italic;
 }
+.link-icon {
+    font-size: 1rem;
+    margin: 0.5rem;
+    
+}
+#footer {
+    background-color: rgba(7, 61, 126, 0.103);
+    font-size: 0.8em;
+}
+#copyright {
+    margin: 0.5rem;
+    padding-top: 0.5rem;
+}
+a:visited {
+    color: rgba(7, 61, 126, 0.805)
+}
+
