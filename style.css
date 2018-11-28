@@ -13,10 +13,9 @@ background-color: rgba(7, 61, 126, 0.305);
     border-radius: 6rem;
 }
 #image {
-    margin-top: 5rem;
     border-radius: 10rem;
     border: 4px solid rgba(7, 61, 126, 0.605);
-    max-width: 100%;
+    max-width: 80%;
     display: block;
     height: auto;
     margin: auto
