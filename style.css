@@ -1,19 +1,22 @@
 body {
-text-align: center;
-background-color: rgba(7, 61, 126, 0.305);
-color: rgba(7, 61, 126, 0.805)
+    text-align: center;
+    background-color: rgba(7, 61, 126, 0.305);
+    color: rgba(7, 61, 126, 0.805)
 }
+
 #tribute-info {
     display: flex;
     justify-content: center;
     border-radius: 8rem;
 }
+
 #img-div {
     margin: 2rem;
     padding: 2rem;
     background-color: aliceblue;
     border-radius: 6rem;
 }
+
 #image {
     border-radius: 10rem;
     border: 4px solid rgba(7, 61, 126, 0.605);
@@ -22,40 +25,52 @@ color: rgba(7, 61, 126, 0.805)
     height: auto;
     margin: auto
 }
+
 #img-caption {
     margin: 1rem;
 }
+
 h1 {
     font-size: 3rem;
     color: rgba(7, 61, 126)
 }
+
 h4 {
     font-size: 1rem;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     color: rgba(7, 61, 126, 0.805)
 }
+
 ul {
- text-align:left;
- font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: left;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    list-style-type: none;
 }
+
 blockquote {
     font-size: 1.5rem;
     font-style: italic;
 }
+
 .link-icon {
     font-size: 1rem;
     margin: 0.5rem;
-    
 }
+
 #footer {
     background-color: rgba(7, 61, 126, 0.103);
     font-size: 0.8em;
 }
+
 #copyright {
     margin: 0.5rem;
     padding-top: 0.5rem;
 }
+
 a:visited {
     color: rgba(7, 61, 126, 0.805)
 }
 
+li {
+    padding: 0.5rem;
+}
